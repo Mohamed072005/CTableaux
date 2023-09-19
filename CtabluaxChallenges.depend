@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695119262 source:c:\users\youcode\desktop\ctabluaxchallenges\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1695119229 source:c:\users\youcode\desktop\ctabluaxchallenges\tableauxt1.c
+	<stdio.h>
+	<stdlib.h>
+
