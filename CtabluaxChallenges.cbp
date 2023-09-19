@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="TableauxT1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TableauxT2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TableauxT3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
